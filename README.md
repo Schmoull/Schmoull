@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Schmoull
+- 👀 I’m interested in web developement
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on a website e-commerce
+- 📫 How to reach me "samuel.brisset@protonmail.com"
